@@ -1,0 +1,12 @@
+pillow
+pandas
+fastapi
+matplotlib
+seaborn
+numpy
+colorama
+tqdm
+torch
+torchvision
+torchaudio
+anthropic
