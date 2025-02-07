@@ -106,8 +106,15 @@ def main():
         """
         <style>
         [data-testid="stAppViewContainer"] {
-            background-color: var(--primary-background-color);
-            color: var(--primary-text-color);
+            background-color: #f0fff4; /* Default (light mode) background */
+            color: black; /* Default (light mode) text color */
+        }
+    
+        @media (prefers-color-scheme: dark) {
+            [data-testid="stAppViewContainer"] {
+                background-color: #262730;  /* Dark mode background */
+                color: white;  /* Dark mode text color */
+            }
         }
         </style>
     """,
