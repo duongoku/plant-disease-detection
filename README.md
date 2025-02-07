@@ -53,7 +53,7 @@ The model is trained on the PlantVillage dataset with 38 classes of plant diseas
 
 Training code can be found in [plant-disease-detection.ipynb](back-end/plant-diseases-detection.ipynb) file. There are 2 versions of model checkpoints in the [models](back-end/models) folder. [plant_disease_model_color_01.pth](back-end/models/plant_disease_model_color_01.pth) is trained only on color images, while the other is trained on color, grayscale, and segmented images.
 
-Online training logs can be found in [my Kaggle](https://www.kaggle.com/code/duongoku/plant-diseases-detection).
+Online training logs can be found on [my Kaggle](https://www.kaggle.com/code/duongoku/plant-diseases-detection).
 
 ### Results
 
