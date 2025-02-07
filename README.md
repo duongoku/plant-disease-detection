@@ -99,7 +99,7 @@ Features:
 -   Responsive layout with side-by-side image preview
 -   Treatment information in markdown format for easy reading
 -   Error handling for invalid uploads
--   Green-themed UI for better visual appeal
+-   Both light and dark themed UI for better visual appeal
 
 The app can be run locally after creating a virtual environment and installing the required packages:
 
