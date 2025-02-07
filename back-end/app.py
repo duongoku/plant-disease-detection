@@ -106,7 +106,8 @@ def main():
         """
         <style>
         [data-testid="stAppViewContainer"] {
-            background-color: #f0fff4;
+            background-color: var(--primary-background-color);
+            color: var(--primary-text-color);
         }
         </style>
     """,
